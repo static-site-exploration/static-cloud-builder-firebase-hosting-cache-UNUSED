@@ -1,0 +1,9 @@
+## USE THE SAME PATTERN AS THE HUGO IMPLIMENTATION PRELOAD
+
+# Clone the firebase config file from the project repo
+
+# Ensure the correct folders exist (ready for the dist files)
+
+# Build the site specific image (this could be part of, or seperate to the hugo preload image)
+
+# Push the image
